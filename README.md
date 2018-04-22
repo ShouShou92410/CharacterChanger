@@ -1,5 +1,5 @@
 ## What it does
-#### This program allows you to replace the text in a text file to some similar characters, for example, 'a' becomes '@'.
+#### This program scan and replace the text in a text file to some similar characters, for example, 'a' becomes '@'.
 ## How to use
 #### Just run the program and locate the text file on your computer, then hit 'store' and you are done!
 ## Try it
