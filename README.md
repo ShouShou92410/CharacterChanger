@@ -1,5 +1,3 @@
-# CharacterChanger
----
 ## What it does
 #### This program allows you to replace the text in a text file to some similar characters, for example, 'a' becomes '@'.
 ## How to use
